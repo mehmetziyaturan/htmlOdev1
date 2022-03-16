@@ -1,5 +1,27 @@
 # kodluyoruz html Odev 1
-Html eğitiminde ilk oluşturduğum ilk ödev. 
+[Patika.dev](https://app.patika.dev/moduller/html/www.patika.dev) Html eğitiminde ilk oluşturduğum ilk ödev. 
 Konu içeriği başlıklar ve paragraflar.
 
-![proje resmi](https://github.com/mehmetziyaturan/htmlodev1/blob/main/img/png4.PNG)
+
+![proje resmi1](img/png4.PNG)
+![proje resmi2](img/png5.PNG)
+![proje resmi3](img/png6.PNG)
+![proje resmi4](img/png7.PNG)
+
+## Installation
+Öncelikle projeyi clonelayın.
+```bash
+git clone https://github.com/mehmetziyaturan/htmlOdev1.git
+```
+
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```linux
+cd htmlOdev1
+code .
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
