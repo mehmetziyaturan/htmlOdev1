@@ -1,5 +1,5 @@
-# kodluyoruz html Odev 1
-[Patika.dev](https://app.patika.dev/moduller/html/www.patika.dev) Html eğitiminde ilk oluşturduğum ilk ödev. 
+# Blog Sayfam
+Html eğitiminde ilk oluşturduğum proje. 
 Konu içeriği başlıklar ve paragraflar.
 
 
